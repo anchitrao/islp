@@ -20,8 +20,10 @@ Regression; Prediction; n = 52, p = 4
 
 ## Question 3
 ### Part a
-
+![bias_variance_tradeoff](bias_variance_tradeoff.jpg)
+todo
 ### Part b
+todo
 
 ## Question 4
 ### Part a
