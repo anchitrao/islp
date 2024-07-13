@@ -23,9 +23,13 @@ Regression; Prediction; n = 52, p = 4
 ![bias_variance_tradeoff](bias_variance_tradeoff.jpg)
 ### Part b
 typical (squared) bias - bias is the error introduced by approximating a real world problem with a simple model. less flexible models introduce more error as they struggle to approximate highly complex problems. for this reason, the graph starts high. as the models become more flexible, the error they introduce due to oversimplication decreases.
+
 variance - for less flexible models, the variance is extremely low as changes to the training data don't have a very strong effect on the underlying model. however, as flexibility increases, the effect that changes in training data have on a single data point increase due to the model having less information within itself.
+
 training error - as model flexibility increases, the output of the model will more closely match the training data leading to it decreasing over time
+
 test error - although training data decreases as model flexibility increase, after a certain point (where variance starts rising), overfitting will happen and the test error will begin to increase with model flexibility
+
 Bayes (irreducible) error - the bayes irreducible error is always the same. irreducible error is constant and is not affected by model flexibility
 
 ## Question 4
