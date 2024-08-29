@@ -1,9 +1,9 @@
 # ISLP: Introduction to Statistical Learning in Python
 Answers to select exercises from [Introduction to Statistical Learning in Python](https://www.statlearning.com/).
 
-- [ ] Chapter 1: Introduction
+- [x] Chapter 1: Introduction
   - _read only_
-- [ ] Chapter 2: Statistical Learning
+- [x] Chapter 2: Statistical Learning
   - _read only_
 - [ ] Chapter 3: Linear Regression
 - [ ] Chapter 4: Classification
