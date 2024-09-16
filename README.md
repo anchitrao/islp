@@ -6,6 +6,8 @@ Answers to select exercises from [Introduction to Statistical Learning in Python
 - [x] Chapter 2: Statistical Learning
   - _read only_
 - [ ] Chapter 3: Linear Regression
+  - [ ] read
+  - [ ] problems
 - [ ] Chapter 4: Classification
 - [ ] Chapter 5: Resampling Methods
 - [ ] Chapter 6: Linear Model Selection and Regularization
