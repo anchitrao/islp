@@ -2,9 +2,11 @@
 Answers to select exercises from [Introduction to Statistical Learning in Python](https://www.statlearning.com/).
 
 - [x] Chapter 1: Introduction
-  - _read only_
+  - [x] read
+  - [ ] problems
 - [x] Chapter 2: Statistical Learning
-  - _read only_
+  - [x] read
+  - [ ] problems
 - [x] Chapter 3: Linear Regression
   - [x] read
   - [x] problems
