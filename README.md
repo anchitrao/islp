@@ -14,7 +14,7 @@ Answers to select exercises from [Introduction to Statistical Learning in Python
   - [x] problems
 - [ ] Chapter 4: Classification
   - [x] read
-  - [-] lab
+  - [ ] lab
   - [ ] problems
 - [ ] Chapter 5: Resampling Methods
 - [ ] Chapter 6: Linear Model Selection and Regularization
