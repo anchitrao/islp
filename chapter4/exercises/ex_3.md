@@ -1,11 +1,6 @@
-# Exercise 2
+# Exercise 3
 
-![part 1](<./images/ex_2_pt1.png>)
-![part 2](<./images/ex_2_pt2.png>)
-
-not 100% confident about this one, need to go back and rereview.
-
----
+Here's the proof with cleaned up formatting, maintaining consistent spacing and alignment:
 
 $$
 p_k(x)=\frac{\pi_k\frac{1}{\sqrt{2\pi}\sigma}\exp(-\frac{1}{2\sigma^2}(x-\mu_k)^2)}{\sum_{l=1}^{K}\pi_l\frac{1}{\sqrt{2\pi}\sigma}\exp(-\frac{1}{2\sigma^2}(x-\mu_l)^2)}
@@ -46,3 +41,6 @@ Therefore,
 $$
 \text{argmax}_k(p_k(x))=\text{argmax}_k(\delta_k(x))
 $$
+
+
+WORK IN PROGRESS
