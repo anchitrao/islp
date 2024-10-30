@@ -1,5 +1,24 @@
 # ISLP: Introduction to Statistical Learning in Python
 
+## Environment Setup
+
+### Using Conda (recommended):
+
+```bash
+conda env create -f environment.yml
+conda activate islp-env
+pip install ISLP
+```
+
+### Using pip:
+
+```bash
+### Using pip:
+pip install -r requirements.txt
+```
+
+## Table of Contents
+
 Answers to select exercises from [Introduction to Statistical Learning in Python](https://www.statlearning.com/).
 
 - [x] Chapter 1: Introduction
@@ -26,3 +45,7 @@ Answers to select exercises from [Introduction to Statistical Learning in Python
 - [ ] Chapter 11: Survival Analysis and Censored Data
 - [ ] Chapter 12: Unsupervised Learning
 - [ ] Chapter 13: Multiple Testing
+
+## Problem Selection
+
+Selected problems were chosen using Claude prompted to find relevant problems for a software engineer learning machine learning.

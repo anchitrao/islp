@@ -1,0 +1,13 @@
+name: islp-env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - ipykernel
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - statsmodels
+prefix: /Users/anchitrao/anaconda3/envs/islp-env

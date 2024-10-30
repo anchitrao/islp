@@ -4,24 +4,24 @@
 
 ### Core Theory
 
-- **5.3**: K-fold cross-validation concepts
+- [ ] **5.3**: K-fold cross-validation concepts
   - Critical for model evaluation
   - Common interview topic
   - Directly applicable to daily ML work
 
 ### Essential Applied Problems
 
-- **5.5**: Default dataset - validation set approach
+- [ ] **5.5**: Default dataset - validation set approach
   - Complete CV workflow
   - Model evaluation with real data
   - Multiple splitting strategies
 
-- **5.7**: Cross-validation implementation
+- [ ] **5.7**: Cross-validation implementation
   - Hands-on LOOCV implementation
   - Practical logistic regression validation
   - Real dataset (Weekly)
 
-- **5.8**: Cross-validation with simulated data
+- [ ] **5.8**: Cross-validation with simulated data
   - Model selection
   - Understanding overfitting
   - Statistical significance vs CV results
